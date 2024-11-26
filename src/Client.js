@@ -90,6 +90,7 @@ class Client extends EventEmitter {
     }
     /**
      * Injection logic
+     * osdhfajhsdfuoihaousdhfkljhsdlf
      * Private function
      */
     async inject() {
