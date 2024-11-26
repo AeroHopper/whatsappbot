@@ -70,7 +70,7 @@ exports.Events = {
 };
 
 /**
- * Message types
+ * Message types - Message
  * @readonly
  * @enum {string}
  */
